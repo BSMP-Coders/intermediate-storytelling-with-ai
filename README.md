@@ -33,6 +33,16 @@ Text generation AI has transformed how we create written content:
 - Basic understanding of prompt engineering concepts
 - Microsoft Azure account with appropriate permissions
 
+## :toolbox: Tools You'll Use
+
+For this course, we'll utilize Azure's AI services:
+
+- **Azure OpenAI Service** - For text generation, completion, and embedding capabilities
+- **Azure AI Image Creator** - For generating and editing images based on text descriptions
+- **Azure Speech Service** - For converting speech to text and text to speech
+- **Azure AI Studio** - For managing and deploying your AI models and applications
+- **Azure Content Safety** - For ensuring responsible content generation
+
 ## :dart: What You'll Master
 
 - Creating compelling narratives using state-of-the-art AI text generation tools
@@ -50,16 +60,6 @@ Text generation AI has transformed how we create written content:
 | 2.2 - Azure OpenAI Service: Text-to-Speech Narration |<ul><li>Master voice selection and customization in Azure</li><li>Implement emotional speech patterns for character dialogue</li><li>Create seamless audio narratives from AI-generated text</li></ul> | Develop an audiobook generator for AI-created stories | Produce a complete audiobook from generated text content
 | 2.3 - Responsible AI in Storytelling |<ul><li>Identify potential biases in AI-generated narratives</li><li>Implement safeguards against harmful content generation</li><li>Understand copyright considerations in AI storytelling</li></ul> | Audit and refine AI-generated content for bias | Create a responsibility checklist for AI storytelling projects
 | 2.3 - Transparency and Attribution |<ul><li>Develop clear disclosure frameworks for AI-generated content</li><li>Balance human and AI contributions in collaborative storytelling</li><li>Create ethical guidelines for your storytelling practice</li></ul> | Design a transparent AI storytelling portfolio | Present a final project with appropriate AI attribution
-
-## :toolbox: Tools You'll Use
-
-For this course, we'll utilize Azure's AI services:
-
-- **Azure OpenAI Service** - For text generation, completion, and embedding capabilities
-- **Azure AI Image Creator** - For generating and editing images based on text descriptions
-- **Azure Speech Service** - For converting speech to text and text to speech
-- **Azure AI Studio** - For managing and deploying your AI models and applications
-- **Azure Content Safety** - For ensuring responsible content generation
 
 ## :books: Additional Resources
 
