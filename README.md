@@ -1,10 +1,10 @@
-# :sparkles: Storytelling with AI
+# ✨ Storytelling with AI
 
-## :notebook_with_decorative_cover: Course Overview
+## 📔 Course Overview
 
 Welcome to the Storytelling with AI course! In this intermediate-level program, you'll explore the fascinating intersection of artificial intelligence and creative storytelling. Building upon foundational AI concepts, you'll learn how to leverage cutting-edge AI tools to generate compelling narratives and striking visual content. From image generation to text-to-speech applications, you'll discover how AI can enhance and transform your storytelling capabilities. This course emphasizes both technical proficiency and responsible AI usage, ensuring you develop ethical and impactful storytelling skills for various applications.
 
-## :art: Background on AI Content Generation
+## 🎨 Background on AI Content Generation
 
 ### Image Generation Tools
 
@@ -26,14 +26,14 @@ Text generation AI has transformed how we create written content:
 - **LLaMA 2** by Meta: An open-source large language model designed for research and commercial applications.
 - **Phi-3** by Microsoft: A smaller, efficient model optimized for specific use cases.
 
-## :white_check_mark: Prerequisites
+## ✅ Prerequisites
 
 - Access to Azure AI Foundry platform
 - Completion of the first week introductory AI course
 - Basic understanding of prompt engineering concepts
 - Microsoft Azure account with appropriate permissions
 
-## :toolbox: Tools You'll Use
+## 🧰 Tools You'll Use
 
 For this course, we'll utilize Azure's AI services:
 
@@ -43,7 +43,7 @@ For this course, we'll utilize Azure's AI services:
 - **Azure AI Studio** - For managing and deploying your AI models and applications
 - **Azure Content Safety** - For ensuring responsible content generation
 
-## :dart: What You'll Master
+## 🎯 What You'll Master
 
 - Creating compelling narratives using state-of-the-art AI text generation tools
 - Generating and refining images that complement storytelling through AI image creation
@@ -51,7 +51,7 @@ For this course, we'll utilize Azure's AI services:
 - Implementing responsible AI practices in creative content generation
 - Building end-to-end storytelling workflows combining multiple AI modalities
 
-## :pushpin: Lesson Plan
+## 📌 Lesson Plan
 
 |Lesson |Objectives | Lab Exercise | Assessment/Badges
 | ----------- | ----------- | ----------- | ----------- |
@@ -61,7 +61,7 @@ For this course, we'll utilize Azure's AI services:
 | 2.3 - Responsible AI in Storytelling |<ul><li>Identify potential biases in AI-generated narratives</li><li>Implement safeguards against harmful content generation</li><li>Understand copyright considerations in AI storytelling</li></ul> | Audit and refine AI-generated content for bias | Create a responsibility checklist for AI storytelling projects
 | 2.3 - Transparency and Attribution |<ul><li>Develop clear disclosure frameworks for AI-generated content</li><li>Balance human and AI contributions in collaborative storytelling</li><li>Create ethical guidelines for your storytelling practice</li></ul> | Design a transparent AI storytelling portfolio | Present a final project with appropriate AI attribution
 
-## :books: Additional Resources
+## 📚 Additional Resources
 
 Here are some additional resources to help you along the way:
 
