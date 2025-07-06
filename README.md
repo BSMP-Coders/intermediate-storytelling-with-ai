@@ -66,13 +66,10 @@ For this course, we'll utilize Azure's AI services:
 Here are some additional resources to help you along the way:
 
 - [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
-- [Azure AI Image Creator Guide](https://learn.microsoft.com/en-us/azure/ai-services/image-creator/overview)
 - [Azure Speech Service Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text)
 - [Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Advanced Prompt Engineering Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
-- [Narrative Structure in AI Writing](https://aka.ms/narrative-ai)
-- [Visual Storytelling Best Practices](https://aka.ms/visual-storytelling)
-- [AI and Creativity: Microsoft Research](https://www.microsoft.com/en-us/research/project/ai-creativity/)
+- [Starter DALL-E Prompts](https://mockey.ai/blog/dall-e-prompts/)
 
 ---
 
