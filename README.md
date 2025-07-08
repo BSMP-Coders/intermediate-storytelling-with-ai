@@ -10,10 +10,10 @@ Welcome to the Storytelling with AI course! In this intermediate-level program, 
 
 The field of AI image generation has seen remarkable advancements in recent years:
 
-- **DALL-E** by OpenAI: Creates detailed images from text descriptions, now in its third generation with enhanced understanding of nuance and context.
+- **DALL-E** by OpenAI: Creates detailed images from text descriptions, now in its third generation with enhanced understanding of nuance and context. [Check out DALL-E using Microsoft Bing (free with personal Microsoft Account)](https://www.bing.com/images/create).
 - **Midjourney**: Known for its artistic style and ability to create aesthetically pleasing visuals with simple prompts.
 - **Stable Diffusion**: An open-source model that runs locally on compatible hardware, offering customization and privacy benefits.
-- **Microsoft Designer**: Integrated with Azure AI, provides intuitive design capabilities powered by DALL-E.
+- **Microsoft Designer**: Integrated with Azure AI, provides intuitive design capabilities powered by DALL-E. [Check it out here](
 - **Azure AI Image Creator**: Built on DALL-E, offers enterprise-grade image generation with Microsoft's security and compliance standards.
 
 ### Text Generation Tools
