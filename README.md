@@ -13,7 +13,7 @@ The field of AI image generation has seen remarkable advancements in recent year
 - **DALL-E** by OpenAI: Creates detailed images from text descriptions, now in its third generation with enhanced understanding of nuance and context. [Check out DALL-E using Microsoft Bing (free with personal Microsoft Account)](https://www.bing.com/images/create).
 - **Midjourney**: Known for its artistic style and ability to create aesthetically pleasing visuals with simple prompts.
 - **Stable Diffusion**: An open-source model that runs locally on compatible hardware, offering customization and privacy benefits.
-- **Microsoft Designer**: Integrated with Azure AI, provides intuitive design capabilities powered by DALL-E. [Check it out here](
+- **Microsoft Designer**: Integrated with Azure AI, provides intuitive design capabilities powered by DALL-E. [Check it out here]()
 - **Azure AI Image Creator**: Built on DALL-E, offers enterprise-grade image generation with Microsoft's security and compliance standards.
 
 ### Text Generation Tools
@@ -55,15 +55,16 @@ For this course, we'll utilize Azure's AI services:
 
 |Lesson |Objectives | Lab Exercise | Assessment/Badges
 | ----------- | ----------- | ----------- | ----------- |
-| 2.1 - AI Image and Text Generation |• Discover which AI image tools are best for your creative projects - from fantasy worlds to realistic portraits<br>• Learn the secret prompts that make AI create exactly what you imagine - no more random results!<br>• Create your own visual story series using Azure AI Image Creator that looks like it came from the same artist or movie | • Design a next-level digital self portrait<br>• Create a visual story for social media | Create your own choose-your-own-adventure story with consistent characters
-| 2.2 - Azure OpenAI Service: Speech-to-Text Integration & Text-to-Speech Narration |• Turn your voice into text instantly with Azure's speech magic<br>• Create apps that listen and respond to your stories in real-time<br>• Build your own AI assistant that understands your unique voice | Record a podcast or audiobook and get perfect transcripts | Create a voice-controlled interactive story that responds to your commands
-| 2.3 - Data Analysis in Python |• Become a data detective: find hidden patterns in AI content using Python's coolest tools<br>• Create eye-catching visualizations that reveal the story behind the numbers<br>• Build your own AI analysis toolkit to evaluate whether AI-generated content is fair or biased | • Analyze real DC weather data to uncover hidden patterns<br>• Create a visual portfolio that makes complex data look amazing | Build a data-driven project that exposes ethical issues in AI storytelling
+| 2.1 - AI Image and Text Generation |• Discover which AI image tools are best for your creative projects - from fantasy worlds to realistic portraits<br>• Learn the secret prompts that make AI create exactly what you imagine - no more random results!<br>• Create narratives using Text Generation LLMs | [Lesson 2.1](lesson-2.1\README.md) | Create your own choose-your-own-adventure story with consistent characters
+| 2.2 - Azure OpenAI Service: Speech-to-Text Integration & Text-to-Speech Narration |• Turn your voice into text instantly with Azure's speech magic<br>• Create apps that listen and respond to your stories in real-time<br>• Build your own AI assistant that understands your unique voice | [Lesson 2.2](lesson-2.2\README.md) | Create a voice-controlled interactive story that responds to your commands
+| 2.3 - Data Analysis in Python |• Become a data detective: find hidden patterns in AI content using Python's coolest tools<br>• Create eye-catching visualizations that reveal the story behind the numbers<br>• Build your own AI analysis toolkit to evaluate whether AI-generated content is fair or biased | [Lesson 2.3](lesson-2.3\README.md)  | Build a data-driven project that exposes ethical issues in AI storytelling
 
 ## 📚 Additional Resources
 
 Here are some additional resources to help you along the way:
 
 - [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+- [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry)
 - [Azure Speech Service Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text)
 - [Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Advanced Prompt Engineering Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
