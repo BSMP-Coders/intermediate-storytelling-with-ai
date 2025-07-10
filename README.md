@@ -40,7 +40,7 @@ For this course, we'll utilize Azure's AI services:
 - **Azure OpenAI Service** - For text generation, completion, and embedding capabilities
 - **Azure AI Image Creator** - For generating and editing images based on text descriptions
 - **Azure Speech Service** - For converting speech to text and text to speech
-- **Azure AI Studio** - For managing and deploying your AI models and applications
+- **Azure AI Foundry** - For managing and deploying your AI models and applications
 - **Azure Content Safety** - For ensuring responsible content generation
 
 ## 🎯 What You'll Master
@@ -64,7 +64,7 @@ For this course, we'll utilize Azure's AI services:
 Here are some additional resources to help you along the way:
 
 - [Azure OpenAI Service Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
-- [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry)
+- [What is Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry)
 - [Azure Speech Service Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text)
 - [Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Advanced Prompt Engineering Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)

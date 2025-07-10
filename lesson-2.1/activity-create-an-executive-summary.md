@@ -1,7 +1,9 @@
 
 # Activity - Create an Executive Summary
 
-Use AI tools like Azure OpenAI Service or Bing Chat to create a compelling executive summary for your Hackathon project. This summary will communicate your project's core value and be enhanced with AI-generated images.
+## Summary
+
+Use AI tools like Copilot or Bing Chat to create a compelling executive summary for your Hackathon project. This summary will communicate your project's core value and be enhanced with AI-generated images.
 
 1. **Start with Basic Project Information**: Begin with a simple prompt that captures your project's essence:
 

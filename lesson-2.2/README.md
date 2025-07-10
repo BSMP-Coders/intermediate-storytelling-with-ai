@@ -1,16 +1,22 @@
 <!-- 💡 Tip for viewing this file: To see this markdown file in a nicely formatted preview mode in VS Code, press Ctrl+Shift+V. You can also right-click on the file tab and select "Open Preview" or use the Command Palette (Ctrl+Shift+P) and search for "Markdown: Open Preview". -->
 
-# Lesson 2.2: Deep Dive into AI Services- Speech to Text and Text to Speech
+# Lesson 2.2: Deep Dive into AI Services- Speech to Text and Text to Speech & Responsible AI
 
 ## 🎯 Learning Objectives
 
 - Learn how to configure Azure Speech Service for optimal transcription.
-- Implement real-time transcription in storytelling applications.
+- Implement real-time transcription.
+- Learn more about Responsible AI principles and how to apply them in your projects.
 
 ## ✔️ Activities [45 minutes]
+
+[**Explore Speech and Text Services**](activity-explore-speech-text-services.md): Dive into Azure's Speech Service to understand how to convert speech to text and text to speech. Experiment with real-time transcription and audio generation.
+
+[**Learn About Responsible AI**](activity-responsible-ai.md): Explore the principles of Responsible AI and how to apply them in your projects. Understand the importance of fairness, accountability, and transparency in AI systems.
 
 ## 📑Key Terms
 
 - **Speech-to-Text (STT)**: The process of converting spoken language into written text using AI models.
 - **Text-to-Speech (TTS)**: The process of converting written text into spoken language using AI models.
 - **Natural Language Processing (NLP)**: A field of AI that focuses on the interaction between computers and human language, enabling machines to understand, interpret, and generate human language.
+- **Bias in AI**: The presence of systematic and unfair discrimination in AI systems, often resulting from biased training data or flawed algorithms.

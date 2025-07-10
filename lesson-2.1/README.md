@@ -18,7 +18,7 @@
 
 - [**Create an Executive Summary**](activity-create-an-executive-summary.md): Write a brief executive summary of your about your Hackathon project, using AI-generated images to enhance the narrative. Share your summary with the class and discuss.
 
-- **Create a Logo**: Design a logo for your Hackathon project using AI image generation tools, ensuring it aligns with your project's theme and goals.
+- **Create a Logo**: Use Bing Image Creator or Microsoft DesignerDesign a logo for your Hackathon project using AI image generation tools, ensuring it aligns with your project's theme and goals.
 
 ## 📑Key Terms
 
