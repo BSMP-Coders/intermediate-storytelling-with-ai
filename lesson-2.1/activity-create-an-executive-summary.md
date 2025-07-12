@@ -38,11 +38,24 @@ Use AI tools like Copilot or Bing Chat to create a compelling executive summary 
 5. **Example of a Complete Executive Summary**: Use a comprehensive prompt that includes all necessary elements:
 
    ```text
-   Create a polished, investor-ready executive summary for [project name], an innovative solution developed at [hackathon name]. The summary should include: 1) A compelling problem statement about [specific problem] affecting [target audience], 2) Our unique approach using [technologies/methodologies], 3) Key differentiators from existing solutions, 4) Preliminary results showing [metrics], 5) Implementation roadmap with timeline, 6) Potential market impact and scalability, and 7) A brief conclusion highlighting our team's expertise in [relevant skills]. Use professional business language that would appeal to both technical and non-technical stakeholders.
+   Create a polished, investor-ready executive summary for [project name], an 
+   innovative solution developed at [hackathon name]. The summary should include: 
+   1) A compelling problem statement about [specific problem] 
+   affecting [target audience], 
+   2) Our unique approach using [technologies/
+   methodologies], 
+   3) Key differentiators from existing solutions, 
+   4) Preliminary results showing [metrics], 
+   5) Implementation roadmap with timeline, 
+   6) Potential market impact and scalability, and 
+   7) A brief conclusion highlighting our team's expertise in [relevant skills]. 
+   Use professional business language that would appeal to both technical and non-technical stakeholders.
    ```
 
 6. **Bonus: Generate Complementary Images**: Create visual elements to enhance your executive summary:
 
    ```text
-   Create a professional infographic illustration showing the workflow of a technology solution called [project name] that helps [target audience] solve [problem] through [approach]
+   Create a professional infographic illustration showing the workflow of a 
+   technology solution called [project name] that helps [target audience] 
+   solve [problem] through [approach]
    ```
