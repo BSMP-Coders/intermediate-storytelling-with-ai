@@ -1,5 +1,9 @@
-streamlit
+streamlit>=1.24.0
 pandas
 requests
 matplotlib
 numpy
+azure-cognitiveservices-speech>=1.31.0
+python-dotenv>=1.0.0
+streamlit-audiorecorder
+pydub
