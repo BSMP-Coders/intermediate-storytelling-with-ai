@@ -19,9 +19,9 @@ In this activity, you'll learn how to craft increasingly detailed prompts for AI
 
 2. **Add Personal Attributes**: Enhance your prompt with specific details about your appearance:
 
-   ```text
-   A portrait of a teenage student with [hair color] hair, wearing [clothing style], with a [facial expression] expression
-   ```
+   ```A portrait of a teenage student with [hair color] hair,
+   wearing [clothing style], with a [facial expression]
+   expression```
 
 3. **Add Environment and Mood**: Incorporate setting and emotional elements:
 
