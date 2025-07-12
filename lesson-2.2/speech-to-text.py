@@ -153,7 +153,7 @@ def transcribe_audio(audio_file, language):
     try:
         # Get Azure credentials from environment variables
         speech_key = os.environ.get('AZURE_SPEECH_KEY')
-        speech_region = os.environ.get('AZURE_REGION', 'eastus')
+        speech_region = os.environ.get('AZURE_REGION', 'eastus2')
 
         # Validate Azure credentials
         if not speech_key or speech_key.startswith("your_") or speech_key == "":

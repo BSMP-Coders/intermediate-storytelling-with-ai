@@ -21,6 +21,24 @@
             ],
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Streamlit: Text to Speech App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "${workspaceFolder}/lesson-2.2/text-to-speech.py",
+                "--server.port",
+                "8501",
+                "--server.enableCORS",
+                "false",
+                "--browser.serverAddress",
+                "localhost"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
