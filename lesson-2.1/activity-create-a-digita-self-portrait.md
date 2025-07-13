@@ -4,10 +4,13 @@
 
 In this activity, you'll learn how to craft increasingly detailed prompts for AI image generation, specifically to create a personalized digital self-portrait. You'll start with basic prompts and progressively add more specificity, learning how each layer of detail enhances the AI's ability to generate an image that truly reflects your personality and style. By the end, you'll understand the power of prompt engineering and how to guide AI tools like Bing Image Creator to produce customized, high-quality visual content.
 
-![AII Generated Art](image.png)
-![AII Generated Art](image-1.png)
+![AI Generated Art](image.png)
+![AI Generated Art](image-1.png)
 ![AI Generated Art](image-2.png)
-![AII Generated Art](image-3.png)
+![AI Generated Art](image-3.png)
+
+## ✅ Prerequisites
+Before beginning this activity, ensure you are logged into the browser with your personal Microsoft account 
 
 ## Activity Steps
 

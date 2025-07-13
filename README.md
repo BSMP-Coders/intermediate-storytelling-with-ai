@@ -32,6 +32,7 @@ Text generation AI has transformed how we create written content:
 - Completion of the first week introductory AI course
 - Basic understanding of prompt engineering concepts
 - Microsoft Azure account with appropriate permissions
+- A personal Microsoft account 
 
 ## 🧰 Tools You'll Use
 
