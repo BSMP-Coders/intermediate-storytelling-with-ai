@@ -60,13 +60,6 @@ Before beginning this activity, ensure you have:
    - Wait for the Azure Speech Service to process your audio
    - Review the transcription results that appear on the screen
    - Notice how accurately (or inaccurately) your speech was transcribed
-   - Consider factors that might affect accuracy (accent, background noise, speaking clarity)
-
-
-6. **Save and Compare (Currently Broken)**: Save your transcription and compare it to what you actually said:
-
-   - Click "Save Transcription to File" to store the text
-   - Compare the transcription with what you intended to say
    - Note any words or phrases that weren't recognized correctly
    - Consider factors that might affect accuracy (accent, background noise, speaking clarity)
 

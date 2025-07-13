@@ -224,19 +224,6 @@ if uploaded_file is not None:
         st.markdown("<h3>Transcription Result</h3>", unsafe_allow_html=True)
         st.write(transcription)
 
-        # Save transcription to file
-        if st.button("Save Transcription to File"):
-            timestamp = st.session_state.get("transcription_count", 0) + 1
-            st.session_state["transcription_count"] = timestamp
-
-            filename = f"transcription_{timestamp}.txt"
-            save_path = os.path.join(os.path.dirname(__file__), filename)
-
-            with open(save_path, "w") as f:
-                f.write(transcription)
-
-            st.success(f"Transcription saved to {save_path}")
-
 # Display app information in sidebar
 with st.sidebar:
     st.markdown("## About")
