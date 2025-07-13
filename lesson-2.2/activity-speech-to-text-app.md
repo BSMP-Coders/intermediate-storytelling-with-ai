@@ -36,7 +36,7 @@ Before beginning this activity, ensure you have:
 2. **Record Your Voice**: Use the application to record a 30-second audio clip:
 
    - Click the "Click to record" button in the Audio Recorder section
-   - Speak clearly into your microphone for up to 30 seconds
+   - Speak clearly into your microphone for up to 20 seconds
    - Talk about what you learned about AI in this course so far
    - Click the button again to stop recording
    - Verify your recording by listening to the playback
@@ -50,7 +50,7 @@ Before beginning this activity, ensure you have:
 4. **Upload Your Recording**: Now upload the same file for transcription:
 
    - Scroll down to the "Upload Audio for Transcription" section
-   - Select your preferred language from the dropdown menu
+   - Select your preferred language from the dropdown menu (Skip the voice selection)
    - Click "Browse files" or drag and drop your downloaded WAV file
    - Verify that the file appears in the upload area
 
@@ -60,8 +60,10 @@ Before beginning this activity, ensure you have:
    - Wait for the Azure Speech Service to process your audio
    - Review the transcription results that appear on the screen
    - Notice how accurately (or inaccurately) your speech was transcribed
+   - Consider factors that might affect accuracy (accent, background noise, speaking clarity)
 
-6. **Save and Compare**: Save your transcription and compare it to what you actually said:
+
+6. **Save and Compare (Currently Broken)**: Save your transcription and compare it to what you actually said:
 
    - Click "Save Transcription to File" to store the text
    - Compare the transcription with what you intended to say
