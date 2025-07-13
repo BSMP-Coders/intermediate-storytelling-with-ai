@@ -69,7 +69,8 @@ Here are some additional resources to help you along the way:
 - [Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai)
 - [Advanced Prompt Engineering Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
 - [Starter DALL-E Prompts](https://mockey.ai/blog/dall-e-prompts/)
-
+- [Speech Service Overview](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview)
+- [What is Speech-to-Text?](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text)
 ---
 
 ### 📄 License
