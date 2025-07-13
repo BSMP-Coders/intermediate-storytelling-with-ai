@@ -85,3 +85,6 @@ Before beginning this activity, ensure you have:
 3. What practical applications can you imagine for this technology?
 4. How might this technology be improved in the future?
 5. What ethical considerations should be taken into account when using speech recognition technology?
+
+## Seeing an error?
+1. If it looks like this [error message](../media/error-missing-config.png). Make sure your env file exists in the same folder as the text-to-speech.py file. You may have to restart the program once you make a change.
