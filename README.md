@@ -30,27 +30,23 @@ Text generation AI has transformed how we create written content:
 
 - Access to Azure AI Foundry platform
 - Completion of the first week introductory AI course
-- Basic understanding of prompt engineering concepts
-- Microsoft Azure account with appropriate permissions
+- Microsoft Azure subscription
 - A personal Microsoft account 
 
 ## 🧰 Tools You'll Use
 
 For this course, we'll utilize Azure's AI services:
 
-- **Azure OpenAI Service** - For text generation, completion, and embedding capabilities
 - **Azure AI Image Creator** - For generating and editing images based on text descriptions
 - **Azure Speech Service** - For converting speech to text and text to speech
 - **Azure AI Foundry** - For managing and deploying your AI models and applications
-- **Azure Content Safety** - For ensuring responsible content generation
 
 ## 🎯 What You'll Master
 
-- Creating compelling narratives using state-of-the-art AI text generation tools
+- Creating narratives using AI text generation tools
 - Generating and refining images that complement storytelling through AI image creation
 - Integrating speech recognition and text-to-speech for immersive storytelling experiences
-- Implementing responsible AI practices in creative content generation
-- Building end-to-end storytelling workflows combining multiple AI modalities
+- Reviewing responsible AI practices in creative content generation
 
 ## 📌 Lesson Plan
 
