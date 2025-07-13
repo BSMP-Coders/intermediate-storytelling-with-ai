@@ -10,7 +10,9 @@
 
 ## ✔️ Activities [45 minutes]
 
-[**Explore Speech and Text Services**](activity-explore-speech-text-services.md): Dive into Azure's Speech Service to understand how to convert speech to text and text to speech. Experiment with real-time transcription and audio generation.
+[**Speech to Text (STT) Application**](activity-speech-to-text-app.md): Dive into Azure's Speech Service to understand how to convert speech to text and text to speech. Experiment with real-time transcription.
+
+[**Text to Speech Application**](activity-text-to-speech-app.md): Dive into Azure's Speech Service to understand how to convert text to speech and use a variety of languages. Experiment with real-time audio generation.
 
 [**Learn About Responsible AI**](activity-responsible-ai.md): Explore the principles of Responsible AI and how to apply them in your projects. Understand the importance of fairness, accountability, and transparency in AI systems.
 
