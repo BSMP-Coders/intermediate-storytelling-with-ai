@@ -12,6 +12,13 @@ Use AI tools like Copilot or Bing Chat to create a compelling executive summary 
    [project name] that focuses on [main purpose]
    ```
 
+   If you don't have a project in mind yet, ask copilot for some suggestions on something you're passionate about,
+   and then apply a suggestion to the above prompt, for example:
+
+   ```text
+   Give me some ideas on a hackathon project related to wildfire prevention
+   ```
+
 2. **Add Project Details**: Copy the prompt above and add these solution details:
 
    ```text
