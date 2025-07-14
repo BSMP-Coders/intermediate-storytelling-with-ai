@@ -4,8 +4,6 @@
 
 In this activity, you'll learn how to use a Streamlit web application to record your voice, download the audio file, and then use Azure AI Speech Services to transcribe the audio to text. This hands-on exercise demonstrates how AI can convert spoken language into written text, a fundamental technology behind virtual assistants, closed captioning, and other speech-enabled applications. By the end, you'll understand how to work with audio recording, file handling, and cloud-based speech recognition services.
 
-![Speech to Text Process](https://aka.ms/azai/vision/speech-to-text-diagram)
-
 ## Prerequisites
 
 Before beginning this activity, ensure you have:
@@ -33,7 +31,7 @@ Before beginning this activity, ensure you have:
 
    The application will open in your default web browser at http://localhost:8501
 
-2. **Record Your Voice**: Use the application to record a 30-second audio clip:
+2. **Record Your Voice**: Use the application to record a 20-second audio clip:
 
    - Click the "Click to record" button in the Audio Recorder section
    - Speak clearly into your microphone for up to 20 seconds
