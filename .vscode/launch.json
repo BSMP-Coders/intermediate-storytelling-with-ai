@@ -39,6 +39,24 @@
             ],
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Streamlit: Image Gallery App",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "${workspaceFolder}/lesson-2.1/image_gallery.py",
+                "--server.port",
+                "8501",
+                "--server.enableCORS",
+                "false",
+                "--browser.serverAddress",
+                "localhost"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }
