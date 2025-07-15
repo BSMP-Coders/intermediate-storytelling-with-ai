@@ -1,3 +1,7 @@
+# Getting Started Video
+
+https://learn.microsoft.com/en-us/shows/visual-studio-code/getting-started-with-jupyter-notebooks-in-vs-code
+
 # 🧪 Activity: Let's start to read the data
 
 1. Open `app.py` and use GitHub Copilot to generate initial code by entering (try with Ctrl-I to open chat pallete vs. inline chat): 
