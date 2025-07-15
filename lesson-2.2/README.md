@@ -9,6 +9,7 @@
 - Learn more about Responsible AI principles and how to apply them in your projects.
 
 ## ✔️ Activities [45 minutes]
+[**Explore AI Foundry and Test Speech Services**](activity-explore-ai-foundry-speech-text-services.md): Familiarize yourself with the AI Foundry platform and its capabilities. Test the Speech Services to understand how they can be integrated into your applications.
 
 [**Speech to Text (STT) Application**](activity-speech-to-text-app.md): Dive into Azure's Speech Service to understand how to convert speech to text and text to speech. Experiment with real-time transcription.
 
