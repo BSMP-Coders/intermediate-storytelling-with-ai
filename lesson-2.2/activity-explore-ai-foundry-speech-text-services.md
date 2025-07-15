@@ -12,22 +12,22 @@ Before beginning this activity, ensure you have:
 4. **Stable internet connection**: Required for accessing Azure AI Foundry demos and applications
 
 ## Activity Steps
-1. **Access Azure AI Foundry**: Open the Azure AI Foundry in your web browser:
+1. **Access Azure AI Foundry**: 
 
+   - Open the Azure AI Foundry in your web browser:
    - Navigate to the [Azure AI Foundry](https://ai.azure.com)
    - Log in with your Bam Academy account credentials
 2. **Access AI services**: Locate the AI services section in the Azure AI Foundry:
 
    - Scroll down to find the `Explore Azure AI Services` button. See the image below for guidance.
 
-
-![image](../media/locate-azure-ai-services-button.png)
+     ![image](../media/locate-azure-ai-services-button.png)
 
 3. **Go to the speech playground**: Click either of the `Speech Playground` or `Speech` buttons to access the speech services:
 
    - This will take you to the speech playground where you can explore various speech capabilities
    - See the image below for guidance on locating the speech playground.
-![alt text](speech-playground.png)
+     ![alt text](speech-playground.png)
 
 4. **Test real time transcription**: Use the real-time transcription feature:
 
@@ -37,7 +37,7 @@ Before beginning this activity, ensure you have:
    - Speak clearly into your microphone and observe how your speech is transcribed in real time on the right side of the screen (right arrow)
    - Experiment with different phrases and see how accurately they are transcribed on the right side of the screen. 
 
-   ![alt text](image-2.png)
+     ![alt text](image-2.png)
 
    Try these tongue twisters for fun:
 
@@ -53,24 +53,41 @@ Before beginning this activity, ensure you have:
    So ‘twas better Betty Botter bought a bit of better butter
    ```
 
-   5. **Test Speech Translation**: Use the speech translation feature:
+5. **Test Speech Translation**: Use the speech translation feature:
 
    - Click on the `Speech translation` option
 
-   - Select a language TO the dropdown menu (e.g., Spanish, French) 
+      ![alt text](image-3.png)
+
+   - Select a language `TO` the dropdown menu (e.g., Spanish, French) 
    - Click the Blue record button to start recording your voice
    - Allow microphone access if prompted
    - Speak clearly into your microphone and observe how your speech is translated in real time on the right side of the screen
    - Experiment with different phrases and see how accurately they are translated
 
-   ![alt text](image-3.png)
+6. **Test Text to Speech**: Use the text-to-speech feature:
+   - Click on the `Voice Gallery` option
+   
+     ![alt text](image-4.png)
 
+   - Type in `Aria` in the `Search for a voice` box
+   - Scroll down to find the `Aria` voice, it should have 17 styles
 
+     ![alt text](image-5.png)
 
+   - Notice the details on the right side of the screen, including the language, personality, and style of the voice
+   - Click the `Play` button to listen to the voice sample
+   - Click the `Try it out` button to test the voice with your own text
+
+     ![alt text](image-6.png)
+   
+   - Copy and paste one of the tongue twisters from above into the text box
+   - Click the `Play` button to hear the text spoken in the selected voice
+     ![alt text](image-7.png)
+   - Experiment with different voices / languages and text to see how the synthesis quality varies
+   - **Tip** : Look for `Serena Multilingual` voice and test it with the same text, but change the `Speaking style` to Serious or Sad.
 
 
 ## Reflection Questions
 
-   1. How accurate was the transcription compared to what you actually said?
-   2. What factors might affect the accuracy of speech-to-text conversion?
-   3. What practical applications can you imagine for this technology?
+   1. What was your favorite voice or language to use in the text-to-speech feature? Why?
