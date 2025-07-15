@@ -25,6 +25,12 @@ https://www.wunderground.com/history/monthly/KJPN/date/2025-1
 
 ## 🚀 Getting Started
 
+Understand the data values: Is it Qualitative or Quantitative? Qualitative data, which is descriptive and often expressed in words.
+Quantitative data, which is numerical and can be divided into discrete and continuous subcategories.
+
+Under the Pro Tips, added this reference at the end:
+Data visualization chart usages: https://ft-interactive.github.io/visual-vocabulary/
+
 When diving into data analysis, there's a mental checklist seasoned analysts instinctively run through—like muscle memory. Here's a refined list of pro tips to sharpen your analysis and spot insights that others might miss:
 
 🧹 1. Start with a Clean Sweep
