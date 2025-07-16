@@ -11,11 +11,12 @@
             "module": "streamlit",
             "args": [
                 "run",
-                "${workspaceFolder}/lesson-2.3/app.py",
+                "app.py",
                 "--server.runOnSave=true"
             ],
             "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/lesson-2.3"
         },
         {
             "name": "Streamlit: Audio Recorder App",
