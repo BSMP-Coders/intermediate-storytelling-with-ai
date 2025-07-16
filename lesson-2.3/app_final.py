@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'weather.csv' with your actual file path
-df = pd.read_csv('./washington_dc_weather_sample_2025.csv',skiprows=1)
+df = pd.read_csv('./lesson-2.3/washington_dc_weather_sample_2025.csv',skiprows=1)
 
 # Show the first few rows to inspect the data
 print(df.head())
