@@ -12,12 +12,7 @@
             "args": [
                 "run",
                 "${workspaceFolder}/lesson-2.3/app.py",
-                "--server.port",
-                "8501",
-                "--server.enableCORS",
-                "false",
-                "--browser.serverAddress",
-                "localhost"
+                "--server.runOnSave=true"
             ],
             "console": "integratedTerminal",
             "justMyCode": true
