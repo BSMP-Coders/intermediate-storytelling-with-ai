@@ -63,7 +63,9 @@ generate a line chart with a line for Min Wind, Max Wind, and Avg Wind
 
 5. Any other graphs? 
 
+```
 what graphs do you suggest for this data to show trends or make predications
+```
 
 6. Select and implement one of the methods suggested, will the graph make sense to your users?discuss usefulness (e.g. correlation one)
 
