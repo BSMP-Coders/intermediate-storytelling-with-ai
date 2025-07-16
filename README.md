@@ -52,6 +52,8 @@ For this course, we'll utilize Azure's AI services:
 
 ## 📌 Lesson Plan
 
+[Learn Module](https://learn.microsoft.com/en-us/plans/mq33s7t761kx1n?sharingId=F67AE3DA365A6582)
+
 |Lesson |Objectives | Lab Exercise | Assessment/Badges
 | ----------- | ----------- | ----------- | ----------- |
 | 2.1 - AI Image and Text Generation |• Discover which AI image tools are best for your creative projects - from fantasy worlds to realistic portraits<br>• Learn the secret prompts that make AI create exactly what you imagine - no more random results!<br>• Create narratives using Text Generation LLMs | [Lesson 2.1](lesson-2.1/README.md) | Create your own choose-your-own-adventure story with consistent characters
