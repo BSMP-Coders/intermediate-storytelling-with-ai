@@ -1,5 +1,7 @@
 # ✨ Storytelling with AI
 
+[Click here for the full program overview](https://bsmp-coders.github.io/#/2025/intermediate/lesson_summary)
+
 ## 📔 Course Overview
 
 Welcome to the Storytelling with AI course!! In this intermediate-level program, you'll explore the fascinating intersection of artificial intelligence and creative storytelling. Building upon foundational AI concepts, you'll learn how to leverage cutting-edge AI tools to generate compelling narratives and striking visual content. From image generation to text-to-speech applications, you'll discover how AI can enhance and transform your storytelling capabilities. This course emphasizes both technical proficiency and responsible AI usage, ensuring you develop ethical and impactful storytelling skills for various applications.
