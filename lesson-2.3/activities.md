@@ -55,20 +55,27 @@ how would i show the hottest and coldest days by month
 generate a line chart with a line for Min Temperature, Max Temperature, and Avg Temperature
 ```
 
-4. Draw a line chart comparing the wind
+4. What days are walkable?
 
 ```
-generate a line chart with a line for Min Wind, Max Wind, and Avg Wind
+based on this data, what do you think would be the best days to go for a walk, list the days in the app
 ```
 
-5. Any other graphs? 
+5. Walkable by month?
+
+```
+over the course of this year, what percentage of days were walkable by month, display in pie chart for each month
+```
+6. Any other graphs? 
 
 ```
 what graphs do you suggest for this data to show trends or make predications
 ```
 
-6. Select and implement one of the methods suggested, will the graph make sense to your users?discuss usefulness (e.g. correlation one)
+7. Select and implement one of the methods suggested, will the graph make sense to your users?discuss usefulness (e.g. correlation one)
 
-# 🧪 Activity 4: Reflect - Are there other data sets or domains you'd be interested in to analyze?
+# 🧪 Activity 4: Reflect
+- Are there other data sets or domains you'd be interested in to analyze? 
+- Could you use this in your hackathon project to look at metrics?
 
 # 🧪 Activity 5: Review learn module homework (uses jupyter notebooks)
