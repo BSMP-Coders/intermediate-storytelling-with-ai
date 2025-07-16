@@ -1,7 +1,10 @@
 # 🧪 Activity 1: Let's start to read the data
 
 1. Open `app.py` and use GitHub Copilot to generate initial code by entering (try with Ctrl-I to open chat pallete vs. chat): 
+
+```
 i have weather data in a csv, can you load it for me and help me analyze
+```
 
 2. Review the generated code, review the output, notice the first two rows are header data, skip the first row by updating the read as needed, note the column names.  
 

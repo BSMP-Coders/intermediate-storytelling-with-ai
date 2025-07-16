@@ -19,14 +19,21 @@
   // Add necessary devices for audio access
   "runArgs": [
   ],
-  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y build-essential ca-certificates libasound2-dev libssl-dev wget ffmpeg && pip3 install --user -r requirements.txt && echo 'Setup complete!' && python --version",
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "pip3 install --user -r requirements.txt",
+
   // Configure tool-specific properties.
   "customizations": {
     // Configure properties specific to VS Code.
     "vscode": {
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "streetsidesoftware.code-spell-checker"
+        "GitHub.copilot",
+        "ms-python.python",
+        "vscode-icons-team.vscode-icons",
+        "GitHub.copilot-chat",
+        "ms-python.vscode-pylance",
+        "vsls-contrib.codetour",
       ]
     }
   }
