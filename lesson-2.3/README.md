@@ -80,6 +80,8 @@ Use visuals to support a point—not just to decorate a dashboard.
 
 Research counterarguments in your storytelling, pre-emptively to build credibility.
 
+[Let's do some activities to practice these skills with weather data exercises in `activities.md`](./activities.md)
+
 ## 🧠 Pro Tip for Analysts
 When choosing a visualizaton charts, always start with the question you're answering:
 
