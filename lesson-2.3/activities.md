@@ -12,35 +12,54 @@ i have weather data in a csv, can you load it for me and help me analyze
 
 Before using the CSV, students can practice:
 1. Inspecting the raw file, Notice the Date is not of type date, it looks like a generic number
+
+```
 Date column should be converted to datetime
 Date column should be converted to datetime careful with the format
+```
 
 2. Any missing or malformed data
+```
 check for missing values
+```
 
 3. Renaming columns for clarity
+```
 rename the tMax column to Temperature Max
 do the same for tMin, tAvg, tMax, pressureAvg, pressureMin, precipitationTotal
+```
 
 4. Drop data that is not needed for analysis
+```
 delete dewMax, dewMin, dewAvg columns
+```
 
 5. Saving the cleaned version as a CSV
+```
 Save the cleaned DataFrame to a new CSV file
+```
 
 # 🧪 Activity 3: Visualize the updated data
 1. Display raw data
+```
 display raw data using streamlit library, allowing users to scroll through the data 
+```
 
 2. What are temperature highs and lows by month
+```
 how would i show the hottest and coldest days by month
+```
 
 3. Draw a line chart comparing the 3 temperatures
+```
 generate a line chart with a line for Min Temperature, Max Temperature, and Avg Temperature
+```
 
 4. Draw a line chart comparing the wind
 
+```
 generate a line chart with a line for Min Wind, Max Wind, and Avg Wind
+```
 
 5. Any other graphs? 
 
