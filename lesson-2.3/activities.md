@@ -28,7 +28,7 @@ Save the cleaned DataFrame to a new CSV file
 # 🧪 Activity 3: Visualize the updated data
 1. Display raw data
 display raw data using streamlit library, allowing users to scroll through the data 
-#
+
 2. What are temperature highs and lows by month
 how would i show the hottest and coldest days by month
 
