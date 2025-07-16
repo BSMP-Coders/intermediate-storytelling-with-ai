@@ -79,3 +79,5 @@ what graphs do you suggest for this data to show trends or make predications
 - Could you use this in your hackathon project to look at metrics?
 
 # 🧪 Activity 5: Review learn module homework (uses jupyter notebooks)
+
+https://learn.microsoft.com/en-us/plans/mq33s7t761kx1n?sharingId=F67AE3DA365A6582
