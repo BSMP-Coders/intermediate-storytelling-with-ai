@@ -55,7 +55,7 @@ Before using the CSV, students can practice:
     display raw data using streamlit library, allowing users to scroll through the data with page by page controls
     ```
 
-correct page controls if needed, e.g.
+ - correct page controls if needed, e.g.
 
     ```
     remove page controls from sidebar, and place with the data table
