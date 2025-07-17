@@ -6,16 +6,24 @@
 i have weather data in a csv, can you load it for me and help me analyze
 ```
 
-2. Review the generated code, review the output, notice the first two rows are header data, skip the first row by updating the read as needed, note the column names.  
+2. Review the generated code, run it in the terminal
 
+```
+cd lesson-2.3
+python app.py
+```
+
+3. Notice the first two rows are header data, skip the first row by updating the read as needed, note the column names. 
+```
+skip the first row
+```
 # 🧪 Activity 2: Review/Clean the Raw Data
 
 Before using the CSV, students can practice:
 1. Inspecting the raw file, Notice the Date is not of type date, it looks like a generic number
 
 ```
-Date column should be converted to datetime
-Date column should be converted to datetime careful with the format
+Date column should be converted to datetime with the format mm/dd/yyyy
 ```
 
 2. Any missing or malformed data
@@ -42,9 +50,13 @@ Save the cleaned DataFrame to a new CSV file
 # 🧪 Activity 3: Visualize the updated data
 1. Display raw data
 ```
-display raw data using streamlit library, allowing users to scroll through the data 
+display raw data using streamlit library, allowing users to scroll through the data with page by page controls
 ```
 
+correct page controls if needed, e.g.
+```
+remove page controls from sidebar, and place with the data table
+```
 2. What are temperature highs and lows by month
 ```
 how would i show the hottest and coldest days by month
@@ -66,6 +78,11 @@ based on this data, what do you think would be the best days to go for a walk, l
 ```
 over the course of this year, what percentage of days were walkable by month, display in pie chart for each month
 ```
+
+correct if needed, e.g.:
+```
+show each month on a separate tab with the month name
+ ```
 6. Any other graphs? 
 
 ```
