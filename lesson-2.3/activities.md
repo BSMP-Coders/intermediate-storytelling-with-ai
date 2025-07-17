@@ -22,7 +22,7 @@
 # 🧪 Activity 2: Review/Clean the Raw Data
 
 Before using the CSV, students can practice:
-1. Inspecting the raw file, Notice the Date is not of type date, it looks like a generic number
+1. Inspecting the raw file, Notice the Date is not of type date, if it looks like a generic number, if not skip
 
     ```
     Date column should be converted to datetime with format mm/dd/yyyy
