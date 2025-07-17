@@ -23,7 +23,7 @@ Before using the CSV, students can practice:
 1. Inspecting the raw file, Notice the Date is not of type date, it looks like a generic number
 
 ```
-Date column should be converted to datetime with the format mm-dd-yyyy
+Date column should be converted to datetime with the format mm/dd/yyyy
 ```
 
 2. Any missing or malformed data
