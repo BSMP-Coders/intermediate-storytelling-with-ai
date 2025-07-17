@@ -78,6 +78,11 @@ based on this data, what do you think would be the best days to go for a walk, l
 ```
 over the course of this year, what percentage of days were walkable by month, display in pie chart for each month
 ```
+
+correct if needed, e.g.:
+```
+show each month on a separate tab with the month name
+ ```
 6. Any other graphs? 
 
 ```
